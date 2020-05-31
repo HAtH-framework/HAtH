@@ -23,6 +23,6 @@ And thousands more possible implementation of HAtH!
 the project:
 The project is divided in some parts: frontend, backend, specifications.
 
-frontend
-backend
-specifications
+##frontend
+##backend
+##specifications
