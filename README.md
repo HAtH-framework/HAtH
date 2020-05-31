@@ -21,8 +21,4 @@ Granny receive a visit at the door. She doesn't know who is that person, so a re
 And thousands more possible implementation of HAtH!
 
 the project:
-The project is divided in some parts: frontend, backend, specifications.
-
-##frontend
-##backend
-##specifications
+The project is divided in some parts: frontend, backend, specifications (in progress)
